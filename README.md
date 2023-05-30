@@ -126,7 +126,9 @@ print ("R2     :",r2_score(y_test,target_predict))
 ![image](https://github.com/VinithaNaidu/Ex-07-Feature-Selection/assets/121166004/f28471dd-f2a7-46d4-b3eb-40c9dede40e3)
 ![image](https://github.com/VinithaNaidu/Ex-07-Feature-Selection/assets/121166004/155e8e2f-8f66-4a79-9874-2bd9d5128551)
 ![image](https://github.com/VinithaNaidu/Ex-07-Feature-Selection/assets/121166004/0bad6297-1be9-458f-a555-b08e4f6e2c93)
+
 ![image](https://github.com/VinithaNaidu/Ex-07-Feature-Selection/assets/121166004/9e67be3c-3050-4810-8488-17ab90c58b12)
+
 ![image](https://github.com/VinithaNaidu/Ex-07-Feature-Selection/assets/121166004/0f1431bf-21ad-4b6a-ae09-efc4941d90cf)
  # RESULT :
  Thus, Sucessfully performed the various feature selection techniques on a given dataset.
